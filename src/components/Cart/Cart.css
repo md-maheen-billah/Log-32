@@ -1,0 +1,15 @@
+.cart-container img {
+  width: 100px;
+  height: auto;
+  border-radius: 15px;
+}
+
+.cart-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.carts {
+  display: flex;
+  flex-direction: column;
+}
